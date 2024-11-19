@@ -10,7 +10,7 @@ node:14.0.0-alpine
 node:latest
 python:3.8-buster
 python:3.8
-python:3.12
+python:latest
 python:latest
 grafana/grafana:latest
 sjqzhang/go-fastdfs:latest
