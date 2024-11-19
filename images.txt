@@ -14,5 +14,5 @@ python:latest
 python:latest
 grafana/grafana:latest
 sjqzhang/go-fastdfs:latest
-elasticsearch:latest
+elasticsearch:8.1.0
 kibana:latest
