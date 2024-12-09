@@ -1,4 +1,4 @@
-gitlab/gitlab-runner:9.0.2
+golang:1.7
 ubuntu:latest
 nginx:latest
 mongo:4.0.3
