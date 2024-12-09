@@ -1,3 +1,4 @@
+busybox:latest
 registry.gitlab.com/gitlab-org/gitlab-runner/old-releases:ubuntu-v9.0.2
 golang:1.7
 ubuntu:latest
